@@ -1,7 +1,7 @@
 
 
 body {
-	background-image: url("back.jpg");
+	background-image: src("back.jpg");
 	font-family: 'KG Miss Speechy IPA', sans-serif;
                                                 
 	color: white;
@@ -12,7 +12,7 @@ body {
 	display: block;
 	background-color: darkred;
 	min-height: 100%;
-	max-width: 60%;
+	max-width: 70%;
 	margin: 10px auto;
 	border-radius: 40px;
 	border: 1px dashed lavender;
